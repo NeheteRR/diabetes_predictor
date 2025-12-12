@@ -1,0 +1,54 @@
+# ─────────────────────────────────────────
+# Python Bytecode / Cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ─────────────────────────────────────────
+# Virtual Environments
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# ─────────────────────────────────────────
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ─────────────────────────────────────────
+# Data Files (Do NOT upload datasets)
+data/
+datasets/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# ─────────────────────────────────────────
+# Models (Large files should not be committed)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.model
+
+# ─────────────────────────────────────────
+# Streamlit cache
+.streamlit/
+**/.streamlit/
+
+# ─────────────────────────────────────────
+# Logs
+*.log
+
+# ─────────────────────────────────────────
+# OS / Editor Specific
+.DS_Store
+Thumbs.db
+
+# ─────────────────────────────────────────
+# Local environment / Config files
+*.env
+.env.*
