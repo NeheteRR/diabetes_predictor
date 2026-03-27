@@ -52,3 +52,4 @@ Thumbs.db
 # Local environment / Config files
 *.env
 .env.*
+analysis_results.md
